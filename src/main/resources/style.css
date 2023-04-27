@@ -1,0 +1,25 @@
+#up{
+-fx-background-color:"red";
+}
+
+#down{
+-fx-background-color:"blue";
+}
+
+#left{
+-fx-background-color:"green";
+}
+
+#right{
+-fx-background-color:"yellow";
+}
+
+.fx-button {
+    -fx-background-color:"blue";
+    -fx-text-fill:"white";
+}
+
+.fx-button:hover {
+    -fx-background-color:"green";
+
+}

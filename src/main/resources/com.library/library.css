@@ -1,0 +1,13 @@
+/*Flat button example */
+.button {
+
+     -fx-background-color: #7FFFD4;
+     -fx-text-fill: black;
+}
+
+.button:hover {
+
+     -fx-background-color: AQUA;
+
+}
+
